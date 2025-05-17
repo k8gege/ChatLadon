@@ -11,14 +11,14 @@ http://k8gege.org/Ladon/ChatGPT.html
 
 ![Ladon Kali MCP Configuration](https://github.com/k8gege/ChatLadon/blob/main/images/Ladon_kali_mcp_config.png)
 
-## SQL Injection 尝试
+## AI渗透 SQL Injection 漏洞利用
 
 ![SQL Injection Attempt](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_sqlinject.png)
 
-在这张图中，我们展示了 SQL 注入尝试的过程。可以看到，攻击者尝试通过输入恶意 SQL 代码来获取数据库信息。
+在这张图中，我们展示了Kali AI 自主渗透的过程。
 
-## SQL Injection 成功
+## AI渗透 SQL Injection 成功GetShell
 
 ![SQL Injection Success](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_sqlinject_isok.png)
 
-在上面的图像中，我们可以看到 SQL 注入成功的结果。
+在上面的图像中，我们可以看到 SQL 注入成功GetShell，并成功通过webshell执行命令。

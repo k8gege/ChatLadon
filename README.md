@@ -22,3 +22,10 @@ http://k8gege.org/Ladon/ChatGPT.html
 ![SQL Injection Success](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_sqlinject_isok.png)
 
 在上面的图像中，我们可以看到 SQL 注入成功GetShell，并成功通过webshell执行命令。
+
+# Video 视频演示
+## AI Kali SQL Injection Getshell
+
+在这个视频中，我们展示了 AI 如何在 Kali Linux 上进行自动渗透，通过SQL注入获取shell。
+
+[Video](https://github.com/k8gege/ChatLadon/blob/main/video/AI_Kali_Sqlinject_Getshell.mov)

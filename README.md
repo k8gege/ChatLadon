@@ -7,10 +7,6 @@ http://k8gege.org/Ladon/ChatGPT.html
 
 # Kali AI自动渗透 - Ladon MCP Server
 
-## Ladon Kali MCP 配置
-
-![Ladon Kali MCP Configuration](https://github.com/k8gege/ChatLadon/blob/main/images/Ladon_kali_mcp_config.png)
-
 ## AI渗透 SQL Injection 漏洞利用
 
 ![SQL Injection Attempt](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_sqlinject.png)

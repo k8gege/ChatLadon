@@ -24,4 +24,4 @@ http://k8gege.org/Ladon/ChatGPT.html
 
 在这个视频中，我们展示了 AI 如何在 Kali Linux 上进行自动渗透，通过SQL注入获取shell。
 
-[Video](https://github.com/k8gege/ChatLadon/blob/main/video/AI_Kali_Sqlinject_Getshell.mov)
+Video: https://github.com/k8gege/ChatLadon/blob/main/video/AI_Kali_Sqlinject_Getshell.mov

@@ -6,4 +6,4 @@ http://k8gege.org/Ladon/ChatGPT.html
 
 ![image](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_sqlinject.png)
 
-![image](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_isok.png)
+![image](https://github.com/k8gege/ChatLadon/blob/main/images/Kali_sqlinject_isok.png)
